@@ -1,0 +1,41 @@
+.nav {
+    background-color: #ff6666;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav--logo {
+    margin-left: 10px;
+}
+
+.nav--profile {
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 10px;
+}
+
+.nav--navbar {
+    display: flex;
+    align-items: center;
+    column-gap: 30px;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.profilePic {
+    width: 50px;
+    border-radius: 50%;
+}
+
+.home--blogs {
+    display: flex;
+    column-gap: 20px;
+    padding: 10px;
+    height: 100%;
+}

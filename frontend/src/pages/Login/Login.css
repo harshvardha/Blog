@@ -1,0 +1,14 @@
+.login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.login--form {
+    background-color: #ff6666;
+    border-radius: 5px;
+    box-shadow: 2px 2px 22px 3px rgba(0, 0, 0, 0.56);
+    -webkit-box-shadow: 2px 2px 22px 3px rgba(0, 0, 0, 0.56);
+    -moz-box-shadow: 2px 2px 22px 3px rgba(0, 0, 0, 0.56);
+}
