@@ -6,4 +6,6 @@ Steps for running this locally on your machine.
 
 2. Then run "npm run dev" for both frontend and backend by going into respective directories because package.json file for both the frontend and backend is inside respective directories.
 
+3. Install mongoDB compass for database connection on localhost.
+
 To use the logout feature just click on your profile pic and you will be logged out from the app.
